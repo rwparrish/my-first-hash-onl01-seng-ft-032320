@@ -24,6 +24,8 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
+   shipping_manifest[]             
+   shipping_manifest[]          
   # add 2 muskets to the shipping_manifest hash below
 
 
